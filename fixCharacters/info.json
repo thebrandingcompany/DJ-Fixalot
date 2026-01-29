@@ -1,0 +1,9 @@
+{
+    "title": "Fix Characters",
+    "id": "fixCharacters",
+    "description": "Fix Characters",
+    "version": "1.0.3",
+    "type": "general",
+    "author": "MPG IT Consulting",
+    "icon": "fixCharacters.svg"
+}
